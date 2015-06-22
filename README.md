@@ -1,2 +1,2 @@
 # Standards
-This repo will store performance standards for water quality monitoring devices, as well as operational guidelines for effective use of these devices in a drinking water monitoring program.
+This repo will store performance standards for water quality monitoring devices, as well as operational guidelines for effective use of these devices in a drinking water monitoring program. These standards are designed with the devices in [AWQUA/Measurement](https://github.com/AWQUA/Measurement) in mind, and may reference the data communications tools described in [AWQUA/Communication](https://github.com/AWQUA/Communication).
