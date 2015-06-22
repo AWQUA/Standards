@@ -1,1 +1,2 @@
 # Standards
+This repo will store performance standards for water quality monitoring devices, as well as operational guidelines for effective use of these devices in a drinking water monitoring program.
